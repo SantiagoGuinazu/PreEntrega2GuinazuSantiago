@@ -284,22 +284,22 @@ header {
 
 .list1 {
     position: absolute;
-    bottom: 0%;
+    bottom: 5%;
     left: 32%;
 }
 .list2 {
     position: absolute;
-    bottom: 8%;
+    bottom: 12%;
     left: 32%;
 }
 .list3 {
     position: absolute;
-    bottom: 16%;
+    bottom: 19%;
     left: 32%;
 }
 .list4 {
     position: absolute;
-    bottom: 24%;
+    bottom: 26%;
     left: 32%;
 }
 
